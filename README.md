@@ -1,4 +1,4 @@
-# Jarvis AI Helmet
+# Jarvis AI 
 
 **Author:** Giancarlos Minyetti  
 **Created:** October 1, 2025
