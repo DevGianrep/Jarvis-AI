@@ -4,7 +4,7 @@ Author: Giancarlos Minyetti
 Description: Jarvis AI Helment 
 Date: 10/1/25
 
-
+-- Code BreakDown
 -- Jarvis Public API -- 
 
     Class: IronManHelmet:
@@ -148,4 +148,5 @@ Date: 10/1/25
         Run final cleanup tasks.
         Safely power off all modules.
         
+
 ]]
