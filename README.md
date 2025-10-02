@@ -29,6 +29,4 @@ Install the required Python packages:
 pip install -U google-generativeai pyttsx3
 import google.generativeai as genai
 import pyttsx3
-import os
-import time
-import re
+
